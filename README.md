@@ -1,7 +1,7 @@
 # project_comp_science
 Repository for the computational science project
 
-Dependencies:
+\title{Dependencies:}
 numpy: pip install numpy
 matplotlib: pip install matplotlib
 
